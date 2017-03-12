@@ -17,7 +17,8 @@ Motors, Infrared Sensors,Ultrasonic Sensors, Tracker Sensors, Camera, Votage Met
 
 ###Infrared Obstacle Avoidance
 [File： infrared_obstacle_avoidance.c](https://github.com/LeoZ123/Remote-Control-Car/blob/master/Control_Files/infrared_obstacle_avoidance.c)</br>
-[Used sensors: Infrared Sensors](https://github.com/LeoZ123/Remote-Control-Car/blob/master/img/infrared.jpg)
+[Used sensors: Infrared Sensors](https://github.com/LeoZ123/Remote-Control-Car/blob/master/img/infrared.jpg)</br>
+<img src="https://github.com/LeoZ123/Remote-Control-Car/blob/master/img/Infrared.gif" height="500px" width="300px">
 
 ###Meansure Distance by Ultrasonic Sensor
 [File: ultrasonic_distance.c](https://github.com/LeoZ123/Remote-Control-Car/blob/master/Control_Files/ultrasonic_distance.c)</br>
@@ -29,7 +30,8 @@ Motors, Infrared Sensors,Ultrasonic Sensors, Tracker Sensors, Camera, Votage Met
 
 ###Follow Route
 [File: follow_route.c](https://github.com/LeoZ123/Remote-Control-Car/blob/master/Control_Files/follow_route.c)</br>
-[Used sensors: Tracker Sensors](https://github.com/LeoZ123/Remote-Control-Car/blob/master/img/tracker.jpg)
+[Used sensors: Tracker Sensors](https://github.com/LeoZ123/Remote-Control-Car/blob/master/img/tracker.jpg)</br>
+<img src="https://github.com/LeoZ123/Remote-Control-Car/blob/master/img/track.gif" height="300px" width="500px">
 
 ###Camera
 [Used sensors: Camera](https://github.com/LeoZ123/Remote-Control-Car/blob/master/img/camera.jpg)
