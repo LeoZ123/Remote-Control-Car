@@ -22,7 +22,8 @@ Motors, Infrared Sensors,Ultrasonic Sensors, Tracker Sensors, Camera, Votage Met
 
 ###Meansure Distance by Ultrasonic Sensor
 [File: ultrasonic_distance.c](https://github.com/LeoZ123/Remote-Control-Car/blob/master/Control_Files/ultrasonic_distance.c)</br>
-[Used sensors: Ultrasonic Sensors](https://github.com/LeoZ123/Remote-Control-Car/blob/master/img/ultrasonic.jpg)
+[Used sensors: Ultrasonic Sensors](https://github.com/LeoZ123/Remote-Control-Car/blob/master/img/ultrasonic.jpg)</br>
+<img src="https://github.com/LeoZ123/Remote-Control-Car/blob/master/img/distance.gif" height="200px" width="400px">
 
 ###Ultrasinic Obstacle Avoidance
 [File: ultrasinic_obstacle_avoidance.c](https://github.com/LeoZ123/Remote-Control-Car/blob/master/Control_Files/ultrasinic_obstacle_avoidance.c)</br>
