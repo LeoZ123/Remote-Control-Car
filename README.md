@@ -13,7 +13,8 @@ Motors, Infrared Sensors,Ultrasonic Sensors, Tracker Sensors, Camera, Votage Met
 <img src="https://github.com/LeoZ123/Remote-Control-Car/blob/master/img/votage_meter.jpg" height="300px" width="400px">
 ##Functions
 ###Remote Control by PC or Android devices
-[File: remote_control.c](https://github.com/LeoZ123/Remote-Control-Car/blob/master/Control_Files/remote_control.c)
+[File: remote_control.c](https://github.com/LeoZ123/Remote-Control-Car/blob/master/Control_Files/remote_control.c)</br>
+<img src="https://github.com/LeoZ123/Remote-Control-Car/blob/master/img/remote_control.gif" height="300px" width="350px">
 
 ###Infrared Obstacle Avoidance
 [File： infrared_obstacle_avoidance.c](https://github.com/LeoZ123/Remote-Control-Car/blob/master/Control_Files/infrared_obstacle_avoidance.c)</br>
