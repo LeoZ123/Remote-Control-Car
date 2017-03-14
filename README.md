@@ -1,9 +1,11 @@
 # Remote-Control-Car
 <img src="https://github.com/LeoZ123/Remote-Control-Car/blob/master/img/car.jpg" height="450px" width="650px">
+
 ## Control 
 Raspbery Pi 3 </br>
 <img src="https://github.com/LeoZ123/Remote-Control-Car/blob/master/img/pi.jpg" height="300px" width="400px">
-## Used Sensors
+
+## Used Sensors 
 Motors, Infrared Sensors,Ultrasonic Sensors, Tracker Sensors, Camera, Votage Meter
 <img src="https://github.com/LeoZ123/Remote-Control-Car/blob/master/img/motor.jpg" height="300px" width="400px">
 <img src="https://github.com/LeoZ123/Remote-Control-Car/blob/master/img/infrared.jpg" height="300px" width="400px">
@@ -12,7 +14,8 @@ Motors, Infrared Sensors,Ultrasonic Sensors, Tracker Sensors, Camera, Votage Met
 <img src="https://github.com/LeoZ123/Remote-Control-Car/blob/master/img/camera.jpg" height="300px" width="400px">
 <img src="https://github.com/LeoZ123/Remote-Control-Car/blob/master/img/votage_meter.jpg" height="300px" width="400px">
 
-## Functions </br>
+## Functions
+
 ### Remote Control by PC or Android devices
 [File: remote_control.c](https://github.com/LeoZ123/Remote-Control-Car/blob/master/Control_Files/remote_control.c)</br>
 <img src="https://github.com/LeoZ123/Remote-Control-Car/blob/master/img/remote_control.gif" height="300px" width="350px">
