@@ -21,7 +21,7 @@ Motors, Infrared Sensors,Ultrasonic Sensors, Tracker Sensors, Camera, Votage Met
 <img src="https://github.com/LeoZ123/Remote-Control-Car/blob/master/img/remote_control.gif" height="300px" width="350px">
 
 ### Infrared Obstacle Avoidance
-[File： infrared_obstacle_avoidance.c](https://github.com/LeoZ123/Remote-Control-Car/blob/master/Control_Files/infrared_obstacle_avoidance.c)</br>
+[File：infrared_obstacle_avoidance.c](https://github.com/LeoZ123/Remote-Control-Car/blob/master/Control_Files/infrared_obstacle_avoidance.c)</br>
 [Used sensors: Infrared Sensors](https://github.com/LeoZ123/Remote-Control-Car/blob/master/img/infrared.jpg)</br>
 <img src="https://github.com/LeoZ123/Remote-Control-Car/blob/master/img/Infrared.gif" height="500px" width="300px">
 
